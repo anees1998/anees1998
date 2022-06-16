@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anees1998
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning deep learning
+- 👀 I’m interested in artificial intelligence and web development
+- 🌱 I’m currently learning and working on deep learning
 - 💞️ I’m looking to collaborate on AI projects and different programing projects
 - 📫 contact me on GitHub
 
